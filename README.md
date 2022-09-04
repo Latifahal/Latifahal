@@ -3,6 +3,6 @@
 </div>
 <br />
 
-<div><p>I have recently graduated a one year intinsive course in Fullstack Web Development(MERN).Therefor, I'm currently seeking a psision to apply my knowlege and continue developing myself</p>
+<div><p>I have recently graduated a one year intinsive course in Fullstack Web Development(MERN).Therefor, I'm currently seeking a position to apply my knowlege and continue developing myself</p>
 </div>
 
