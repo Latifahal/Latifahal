@@ -5,13 +5,15 @@
 
 <div><p>I have recently graduated from DCI as a Fullstack Web Developer. Currently, i'm in the process of finding a job that I like while developing myself somemore... :rocket:</p>
 
-
-<div>:abc: Languages:</div>
-      &nbsp;
-      <p>1. Arabic:  Mother tongue.</p>
-      <p>2. English: Fluent.</p>
-      <p>3. German:  Good(B2)</p>
-      <p>4. Dutch:   Beginner</p>
+<div>:earth_africa: Based in Wegberg</div>
+<div>:high_brightness: Hobbies: Singing, Ukulele, Reading, Gaming..</div>
+<div>:abc: Languages:
+      1. Arabic: Mother tongue.
+      2. English: Fluent.
+      3. German: Good(B2)
+      4. Dutch: Beginner</div>
+     
+  
 
 <h2 align="center">:iphone: Projects :computer:</h2>
 
