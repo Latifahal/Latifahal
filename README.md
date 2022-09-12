@@ -3,9 +3,17 @@
 </div>
 <br />
 
-<div><p>I have recently graduated from DCI as a Fullstack Web Developer. Currently, i'm working on finding a job that I like while developing myself somemore :rocket:</p>
+<div><p>I have recently graduated from DCI as a Fullstack Web Developer. Currently, i'm in the process of finding a job that I like while developing myself somemore... :rocket:</p>
 
-<h2 align="center">Projects</h2>
+
+<div>:abc: Languages:</div>
+      &nbsp;
+      <p>1. Arabic:  Mother tongue.</p>
+      <p>2. English: Fluent.</p>
+      <p>3. German:  Good(B2)</p>
+      <p>4. Dutch:   Beginner</p>
+
+<h2 align="center">:iphone: Projects :computer:</h2>
 
 </div>
   <div align="center"><p>:arrow_down:</p><a href="http://greenthumbshop.herokuapp.com/" name="GreenThumb">GreenThumb</a></div>
