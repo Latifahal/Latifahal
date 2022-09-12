@@ -75,7 +75,7 @@
      
   
 
-<h2 align="center">:iphone: Projects :computer:</h2>
+<h2 align="center">:iphone: My Two Final Projects :computer:</h2>
 
 </div>
   <div align="center"><p>:arrow_down:</p><a href="http://greenthumbshop.herokuapp.com/" name="GreenThumb">GreenThumb</a></div>
