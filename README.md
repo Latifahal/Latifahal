@@ -3,7 +3,7 @@
 </div>
 <br />
 
-<div><p>I have recently graduated from DCI as a Fullstack Web Developer. Currently, i'm in the process of finding a job that I like while developing myself somemore... :rocket:</p>
+<div><p>I have recently graduated from DCI as a Fullstack Web Developer. Currently, I'm in the process of finding a job that I like while developing myself somemore... :rocket:</p>
 
   <div> Let's connect! <a href="https://www.linkedin.com/latifahwebdev/">
   <img align="" alt="Vishnudas LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
