@@ -78,7 +78,7 @@
 <h2 align="center">:iphone: My Two Final Projects :computer:</h2>
 
 </div>
-  <div align="center"><p>:arrow_down:</p><a href="http://greenthumbshop.herokuapp.com/" name="GreenThumb">GreenThumb</a></div>
+  <h2 align="center"><p>:arrow_down:</p><a href="http://greenthumbshop.herokuapp.com/" name="GreenThumb">GreenThumb</a></h2>
   &nbsp;
   <div align="center"><div marign-bottom="10px"><kbd><img src="Screenshot from 2022-09-12 08-36-31.png" width="350" title="hover text" /></kbd></div>
   &nbsp;
@@ -90,7 +90,9 @@
 
 ____________________
 
- <div align="center"><p>:arrow_down:</p><a href="http://greenthumbshop.herokuapp.com/" name="GreenThumb">Garderoba App Intro</a></div>
+ <h2 align="center">Garderoba App Intro</h2>
   &nbsp;
 
 [![Watch the video](https://img.youtube.com/vi/-5OaHI0zonk/maxresdefault.jpg)](https://youtu.be/-5OaHI0zonk)
+
+<p>:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:</p>
