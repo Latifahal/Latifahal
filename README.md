@@ -88,5 +88,9 @@
 </div>
 
 
-* <a name="section-1"></a> Check
-[Garderoba](#section-1)
+____________________
+
+ <div align="center"><p>:arrow_down:</p><a href="http://greenthumbshop.herokuapp.com/" name="GreenThumb">Garderoba App Intro</a></div>
+  &nbsp;
+
+[![Watch the video](https://img.youtube.com/vi/-5OaHI0zonk/maxresdefault.jpg)](https://youtu.be/-5OaHI0zonk)
