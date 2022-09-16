@@ -13,7 +13,7 @@
     
     
 
-<div>:earth_africa: Based in Wegberg</div>
+<div>:earth_africa: Based in NRW</div>
 🌱 I’m currently developing myself more in the back-end
 <div>:high_brightness: Hobbies: Singing, Ukulele, Reading, Gaming..</div>
 ⚡ Fun fact: I would probably ask you about your zodiac sign :crystal_ball:
