@@ -23,55 +23,7 @@
       3. German: Good(B2)
       4. Dutch: Beginner</div>
       &nbsp;
-    <h2 align="center">Skills</h2>
   
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<div align="center">
-<code>
-<img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
-</code> <br>
-</div>
-<code>
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<img src="https://img.icons8.com/ios/50/000000/express-js.png"/>
-</code> <br>
-</div>
-<code>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-</code><br>
-</div>
-<code>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/external-others-inmotus-design/48/1A1A1A/external-A-alphabet-others-inmotus-design-12.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-</code> <br>
-</div>
-<code>
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-</code> <br>
-</div>
-<code>
-<img src="https://img.icons8.com/color/48/000000/jira.png"/> 
-<img src="https://img.icons8.com/color/48/000000/trello.png"/>
-</code> <br>
-<code>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  </code> <br>
-</div>
-
-</div>
-
      
   
 
