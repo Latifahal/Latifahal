@@ -3,30 +3,8 @@
 </div>
 <br />
 
-<div><p>I have recently graduated from DCI as a Fullstack Web Developer. Currently, I'm in the process of finding a job that I like while developing myself somemore... :rocket:</p>
-
- <div> :small_blue_diamond: Let's connect! &nbsp;<div><a href="https://www.linkedin.com/latifahwebdev/"></div>
-  <img align="" alt="Vishnudas LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
- </a></div>
-  
   <mailto:latifah4@zohomail.eu>
     
-    
-
-<div>:earth_africa: Based in NRW</div>
-🌱 I’m currently developing myself more in the back-end
-<div>:high_brightness: Hobbies: Singing, Ukulele, Reading, Gaming..</div>
-⚡ Fun fact: I would probably ask you about your zodiac sign :crystal_ball:
-<div>:abc: Languages:
-      1. Arabic: Mother tongue.
-      2. English: Fluent.
-      3. German: Good(B2)
-      4. Dutch: Beginner</div>
-      &nbsp;
-  
-     
-  
-
 <h2 align="center">:iphone: My Two Final Projects :computer:</h2>
   &nbsp;
 </div>
