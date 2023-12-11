@@ -5,7 +5,7 @@
 
   <mailto:latifah4@zohomail.eu>
     
-<h2 align="center">:iphone: Projects :computer:</h2>
+<h2 align="center"> Projects </h2>
   &nbsp;
 </div>
   <h3 align="center"><p>:arrow_down:</p><a href="http://greenthumbshop.herokuapp.com/" name="GreenThumb">GreenThumb</a></h3>
