@@ -3,7 +3,7 @@
 </div>
 <br />
 
-  <mailto:latifah4@zohomail.eu>
+  <mailto:liviaalbrecht@outlook.com>
     
 <h2 align="center"> Projects </h2>
   &nbsp;
