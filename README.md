@@ -8,7 +8,7 @@
 <h2 align="center"> Projects </h2>
   &nbsp;
 </div>
-  <h3 align="center"><p>:arrow_down:</p><a href="http://greenthumbshop.herokuapp.com/" name="GreenThumb">GreenThumb</a></h3>
+  <h3 align="center"><p>:arrow_down:</p><a href="https://latifahal.github.io/greenthumb.github.io/" name="GreenThumb">GreenThumb</a></h3>
   &nbsp;
   <div align="center"><div marign-bottom="10px"><kbd><img src="Screenshot from 2022-09-12 08-36-31.png" width="350" title="hover text" /></kbd></div>
   &nbsp;
